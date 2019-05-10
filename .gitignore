@@ -1,4 +1,6 @@
 # Logs
+note
+data/lambda.db3
 logs
 *.log
 npm-debug.log*
